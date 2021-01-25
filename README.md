@@ -30,7 +30,9 @@ SketchCollab breaks these limits, SketchCollab allows you to edit the project at
 
 <br/>
 <br/>
+
 # Docs
+
 ### Importing the project to Android Studio
 Go to the bottom of this page and select the branch you want to use. We recommend [release](https://github.com/Iyxan23/sk-collab/tree/release).
 Click the green Download Code button, and click Download ZIP.
