@@ -36,7 +36,7 @@ SketchCollab breaks these limits, SketchCollab allows you to edit the project at
 ### Importing the project to Android Studio
 Go to the bottom of this page and select the branch you want to use. We recommend [release](https://github.com/Iyxan23/sk-collab/tree/release).
 Click the green Download Code button, and click Download ZIP.
-Extract the zip file to AndroidStudioProjects (located at C:\Users\[user]\AndroidStudioProjects on windows].
+Extract the zip file to AndroidStudioProjects (located at C:\Users\ [user] \AndroidStudioProjects on windows].
 Open Android Studio and select Sk Collab.
 
 ### Connecting to Firebase
