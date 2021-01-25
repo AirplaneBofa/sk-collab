@@ -26,11 +26,23 @@ This is a very slow and an inefficient way of collaborating, because you will ne
 
 <img align="right" src="https://github.com/Iyxan23/sk-collab/blob/main/artworks/diagram-sketchcollab.png"/>
 <br/>
-SketchCollab break these limits, SketchCollab allows you to edit the project at the same time as someone is editing the project, this makes development not only faster, but also easier. <i>(Shown in diagram on the right)</i>
+SketchCollab breaks these limits, SketchCollab allows you to edit the project at the same time as someone else is editing the project, this makes development not only faster, but also easier. <i>(Shown in diagram on the right)</i>
+
+<br/>
+<br/>
+# Docs
+### Importing the project to Android Studio
+Go to the bottom of this page and select the branch you want to use. We recommend [release](https://github.com/Iyxan23/sk-collab/tree/release).
+Click the green Download Code button, and click Download ZIP.
+Extract the zip file to AndroidStudioProjects (located at C:\Users\[user]\AndroidStudioProjects on windows].
+Open Android Studio and select Sk Collab.
+
+### Connecting to Firebase
 
 <br/>
 <br/>
 <br/>
+
 
 ## Note
 I didn't invent version control. SketchCollab is only a version control system for Sketchware projects.
